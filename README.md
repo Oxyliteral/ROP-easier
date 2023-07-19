@@ -1,7 +1,8 @@
 # Easier Ring of Pain
 A mod for Ring of Pain that makes the game easier.
 
-**Requries BepInEx**
+**!!Requries BepInEx!!**
+
 If you don't know what this means, see: https://github.com/BepInEx/BepInEx
 To install, go to Releases, go to BepInEx 6.X.X (should be first in the list), go to Assets, and click BepInEx_UnityIL2CPP_x64_6.X.X
 Once downloaded, extract the files into your Ring of Pain folder, and run the game.
